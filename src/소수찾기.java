@@ -4,7 +4,6 @@ public class 소수찾기 {
 		  public int solution(int n) {
 		      int answer = 0;
 		      for(int i = 2; i<=n;i++) {
-                //if(i ==2 || i==3 ||i==5||i==7 ) answer +=1;
 		    	  if(isPrime(i) == true) {
 		    		  answer +=1;
 		    	  }
@@ -22,7 +21,6 @@ public class 소수찾기 {
 				  i++;
 			  }
 			  return num;
-			 
 		  }
 		}
 	public static void main(String[] args) {
