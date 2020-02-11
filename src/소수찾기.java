@@ -1,5 +1,5 @@
 
-public class ¼Ò¼öÃ£±â {
+public class ì†Œìˆ˜ì°¾ê¸°{
 	class Solution {
 		  public int solution(int n) {
 		      int answer = 0;

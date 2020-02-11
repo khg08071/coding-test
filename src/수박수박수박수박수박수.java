@@ -1,10 +1,10 @@
 
-public class ¼ö¹Ú¼ö¹Ú¼ö¹Ú¼ö¹Ú¼ö¹Ú¼ö {
+public class ìˆ˜ë°•ìˆ˜ë°•ìˆ˜ë°•ìˆ˜ë°•ìˆ˜ë°•ìˆ˜ {
 	class Solution {
 		  public String solution(int n) {
 		      String answer = "";
-		      String p = "¼ö";
-		      String q = "¹Ú";
+		      String p = "ï¿½ï¿½";
+		      String q = "ï¿½ï¿½";
 		      for(int i = 1; i <=n; i++) {
 		    	  if(i %2 ==0) {
 		    		  answer += q;

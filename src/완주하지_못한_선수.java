@@ -1,6 +1,6 @@
 
 
-public class ¿ÏÁÖÇÏÁö_¸øÇÑ_¼±¼ö {
+public class ì™„ì£¼í•˜ì§€_ëª»í•œ_ì„ ìˆ˜{
 	class Solution {
 	    public String solution(String[] participant, String[] completion) {
 	        String answer = "";
@@ -41,3 +41,7 @@ public class ¿ÏÁÖÇÏÁö_¸øÇÑ_¼±¼ö {
 	}
 
 }
+
+
+
+
